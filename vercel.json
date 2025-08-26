@@ -9,6 +9,6 @@
     }
   ],
   "env": {
-    "VITE_API_BASE_URL": "@vite_api_base_url"
+    "VITE_API_BASE_URL": "https://callbee-backend-dc7o.onrender.com"
   }
 }
