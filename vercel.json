@@ -2,7 +2,7 @@
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "framework": "vite",
-  "rootDirectory": "call-agent-frontend",
+  
   "rewrites": [
     {
       "source": "/(.*)",
