@@ -1,0 +1,7 @@
+:root { --sidebar-width: 240px; }
+html, body, #root { height: 100%; }
+.site-layout { min-height: 100vh; }
+.logo { height: 48px; margin: 16px; font-weight: 700; font-size: 16px; color: white; display:flex; align-items:center; }
+.content-wrap { padding: 24px; }
+.centered { display:flex; align-items:center; justify-content:center; min-height:80vh; }
+.pre { background:#f6f8fa; border:1px solid #eee; border-radius:6px; padding:12px; overflow:auto; }
